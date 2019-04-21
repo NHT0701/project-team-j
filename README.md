@@ -1,8 +1,10 @@
 # Introduction
 To use jekyll and markdown to implement a website
 # Code
-
-
+```c
+{% include_relative code.c %}
+```
+[![Build Status](https://travis-ci.org/csci3250-2019/project-team-j.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-j)
 # Contributors
 - {% include_relative _stu/1155100189.md %}
 - {% include_relative _stu/1155112410.md %}
@@ -11,6 +13,5 @@ To use jekyll and markdown to implement a website
  - {% include_relative _stu/1155107904.md %}
 - {% include_relative _stu/1155095948.md %}
 
-{% include_relative code.c %}
 
 Last updated: {{site.time}}
