@@ -1,7 +1,7 @@
 # Introduction
 To use jekyll and markdown to implement a website
 # Code
-
+- {% include_relatve code.c %}
 
 # Contributors
 - {% include_relative _stu/1155100189.md %}
