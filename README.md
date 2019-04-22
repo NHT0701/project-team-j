@@ -1,5 +1,9 @@
 # Introduction
-To use jekyll and markdown to implement a website
+- Create a .md file (each member) and add it to README.md using the include tag.
+- Use Kanban Template for automation in Project Board.
+- Write a short C code.
+- Promote the page when everything is done. :)
+
 # Code
 ```c
 {% include_relative code.c %}
